@@ -1,0 +1,4 @@
+INSERT INTO CURRENCY (NAME) VALUES ('USD');
+INSERT INTO CURRENCY (NAME) VALUES ('EUR');
+INSERT INTO ACCOUNT (balance, currency_id) values (1000,1);
+INSERT INTO ACCOUNT (balance, currency_id) values (1000,1);
